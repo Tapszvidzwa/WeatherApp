@@ -1,4 +1,12 @@
 # WeatherApp
+Tech stacks used
+- Coroutines
+- MVVM
+- RxJava 
+- Hilt 
+- Jetpack Compose
+- Retrofit
+
 |                  |                  |                 |
 |------------------|------------------|-----------------|
 |   Home screen    |  Fetch current location using gps coordinates |   Search new city  |
