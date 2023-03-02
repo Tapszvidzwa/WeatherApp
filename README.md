@@ -6,7 +6,6 @@ Tech stacks used
 - Hilt 
 - Jetpack Compose
 - Retrofit
-- OpenWeatherApi
 |                  |                  |                 |
 |------------------|------------------|-----------------|
 |   Home screen    |  Fetch current location using gps coordinates |   Search new city  |
